@@ -1,0 +1,15 @@
+{
+  "name": "robot-alive",
+  "version": "1.0.0",
+  "description": "Bot for the KTR Discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillermo Rico Sainz Maza (@gricosm)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  }
+}
